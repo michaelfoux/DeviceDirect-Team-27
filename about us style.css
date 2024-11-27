@@ -1,0 +1,56 @@
+/* About Us Card */
+.about-card {
+    background: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    margin-top: 10px;
+}
+
+.about-card section {
+    margin-bottom: 30px;
+}
+
+.about-card h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007BFF;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.about-card h2 .icon {
+    margin-right: 10px;
+    font-size: 28px;
+}
+
+.about-card p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #333;
+    line-height: 1.6;
+}
+
+.about-card ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.about-card li {
+    font-size: 16px;
+    font-weight: 400;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+/* Footer Links */
+.footer a {
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
